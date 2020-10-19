@@ -119,7 +119,7 @@ summary:hover{
 }
 
 .newEvent{
-  width: 60%;
+  width: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
